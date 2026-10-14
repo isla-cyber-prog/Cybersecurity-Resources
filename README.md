@@ -1,2 +1,15 @@
-# Cybersecurity-Resources
-Useful cybersecurity resources, tools, websites and learning materials.
+# Cybersecurity Resources
+
+A collection of useful cybersecurity resources.
+
+## Learning Platforms
+- TryHackMe
+
+## Programming
+- Python Documentation
+
+## Security Topics
+- Networking
+- Linux
+- Web Security
+- Digital Safety
